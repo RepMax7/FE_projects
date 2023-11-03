@@ -102,7 +102,7 @@ h2:hover{
 .contactInfo ul li span{
     color: aliceblue;
     font-weight: 300;
-    
+
     
 }
 
@@ -166,3 +166,72 @@ p{
     font-size: 16px;
 }
 
+.skills_container{
+    background-color: black;
+    width: 100%;
+    height: 75px;
+    display: grid;
+}
+
+.skills{
+
+    background-color: white;
+    width: 100%;
+    height: 75px;
+}
+
+.skills h2{
+    color: rgb(27, 27, 71);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.the_skills{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    display: flex;
+}
+
+.name_of_the_skill{
+    background-color: white;
+    width: 200px;
+    height: 400px;
+    display: grid;
+}
+
+.percentage{
+    background-color: white;
+    width: 100%;
+    height: 400px;
+}
+
+
+
+
+.first{
+    background-color:  rgb(46, 43, 43);
+    width: 90%;
+    height: 15px;
+    margin-top: 25px;
+}
+
+.after_first{
+    background-color: rgb(46, 43, 43);
+    width: 90%;
+    height: 15px;
+    margin-top: 85px;
+}
+
+.first div{
+    background-color: rgb(53, 85, 145);
+    height: 100%;
+    width: 95%;
+}
+
+.after_first div{
+    height: 100%;
+   width: 75%; 
+    background-color: rgb(53, 85, 145);
+}
