@@ -51,6 +51,8 @@ body {
     object-fit: cover;
 }
 
+
+
 .profileName h2 {
   color: aliceblue;
   font-size: 20px;
@@ -61,13 +63,19 @@ body {
   line-height: 25px;
 }
 
+h2:hover{
+    color: rgb(8, 8, 27);
+}
+
 .profileName h2 span {
+    
     font-size: 16px;
     font-weight: 300;
 }
 
 .contactInfo{
     padding-top: 40px;
+    
 }
 
 .title
@@ -94,6 +102,8 @@ body {
 .contactInfo ul li span{
     color: aliceblue;
     font-weight: 300;
+    
+    
 }
 
 .education li {
